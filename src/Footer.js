@@ -33,7 +33,7 @@ export default class Footer extends Component {
                               </a>
                           </li>
                       </ul>
-                      <p className="copyright text-muted">Copyright &copy; Your Website 2016</p>
+                      <p className="copyright text-muted">Copyright &copy; SabitTheBot 2020</p>
                   </div>
               </div>
           </div>

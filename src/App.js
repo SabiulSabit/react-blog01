@@ -23,7 +23,7 @@ function App() {
                                     Problems look mighty small from 150 miles up
                                 </h3>
                             </a>
-                            <p className="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 24, 2014</p>
+                            <p className="post-meta">Posted by <a href="#">Start Bootstrap</a> on Jan 8, 2020</p>
                         </div>
                         <hr />
                         <div className="post-preview">
@@ -32,7 +32,7 @@ function App() {
                                     I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
                                 </h2>
                             </a>
-                            <p className="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 18, 2014</p>
+                            <p className="post-meta">Posted by <a href="#">Start Bootstrap</a> on Jan 8, 2020</p>
                         </div>
                         <hr />
                         <div className="post-preview">
@@ -44,7 +44,7 @@ function App() {
                                     We predict too much for the next year and yet far too little for the next ten.
                                 </h3>
                             </a>
-                            <p className="post-meta">Posted by <a href="#">Start Bootstrap</a> on August 24, 2014</p>
+                            <p className="post-meta">Posted by <a href="#">Start Bootstrap</a> on Jan 8, 2020</p>
                         </div>
                         <hr />
                         <div className="post-preview">
@@ -56,7 +56,7 @@ function App() {
                                     Many say exploration is part of our destiny, but it’s actually our duty to future generations.
                                 </h3>
                             </a>
-                            <p className="post-meta">Posted by <a href="#">Start Bootstrap</a> on July 8, 2014</p>
+                            <p className="post-meta">Posted by <a href="#">Start Bootstrap</a> on Jan 8, 2020</p>
                         </div>
                         <hr />
 

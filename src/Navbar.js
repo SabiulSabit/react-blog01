@@ -11,7 +11,7 @@ class Navbar extends Component {
                       <span className="sr-only">Toggle navigation</span>
                       Menu <i className="fa fa-bars"></i>
                   </button>
-                  <a className="navbar-brand" href="index.html">Start Bootstrap</a>
+                  <a className="navbar-brand" href="index.html">React Blog 01</a>
               </div>
 
 
